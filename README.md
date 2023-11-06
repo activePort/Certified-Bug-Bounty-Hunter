@@ -1,2 +1,2 @@
-# Cheat-Sheets
-Cheat sheets for penetration testing o certifications.
+# Cheat Sheets
+Cheat sheets from Hack The Box.
